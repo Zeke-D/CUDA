@@ -47,7 +47,7 @@ int main() {
         ...
         ```
     > * Which value of **k** decrypted the message? What does the message say?\
-    **TODO: Your answer here**
+	`helloXthereXgeneralXkenobi`
 
 * Out of the 25 possiblities, one message should make sense!
 
